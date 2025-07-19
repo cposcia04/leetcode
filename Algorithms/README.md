@@ -4,5 +4,5 @@
 
 | # | Problem | Difficulty | Solution | Runtime | Memory | Notes |
 |---|---------|------------|----------|---------|---------|-------|
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](./solutions/035-search-insert-position.js) | 0 ms | 54.10 MB | Binary search |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](./search_insert_position.js) | 0 ms | 54.10 MB | Binary search |
 
